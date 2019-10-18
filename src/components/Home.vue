@@ -5,7 +5,7 @@
     <el-col :span="24" class="topbar-wrap">
 
       <div class="topbar-title">
-        <span style="font-size: 18px;color: #fff;">疯鸟免单</span>
+        <span style="font-size: 18px;color: #fff;">白吃了么</span>
       </div>
       <el-button class="clear" size="mini" type='primary' @click="quanping()">{{fstext}}</el-button>
       <div class="topbar-account topbar-btn">
